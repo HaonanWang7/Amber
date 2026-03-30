@@ -1,4 +1,4 @@
-# 概述
+# 简介
 当树脂历经千万年时光，在地质的褶皱里凝结成琥珀，那些曾鲜活的瞬间 —— 一片叶脉的纹路、一只昆虫的触角，便被永久定格，成为可触摸、可回望的 “时光标本”。
 
 
@@ -11,3 +11,12 @@
   - 基于模型的系统工程
 - 指南
 - 好书推荐
+
+
+
+
+
+## License
+
+- **Source Code & Theme**: Licensed under the [MIT License](LICENSE)
+- **Blog Posts & Content**: Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
