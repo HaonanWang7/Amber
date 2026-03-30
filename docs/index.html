@@ -8,24 +8,40 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 
+  <style>
+    /* 底部版权样式 */
+    .my-footer {
+      text-align: center;
+      color: #999;
+      padding: 10px 0 20px;
+      font-size: 14px;
+    }
+    .my-footer a {
+      color: #999;
+      text-decoration: none;
+    }
+  </style>
 </head>
 <body>
   <div id="app">载入中...</div>
+
   <script>
     window.$docsify = {
       coverpage: true,
       name: '琥珀纪',
-      repo: 'HaonanWang7/Amber',
-      footer:{
-        copy: '© 2026 Wang Haonan | wanghn.com | <a href="LICENSE">Source Code MIT</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/">Content CC BY-SA 4.0</a>',
-        year: false
-      }
+      repo: 'HaonanWang7/Amber'
     }
   </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-footer-enh/dist/docsify-footer.min.js"></script>
 
+  <!-- Docsify 核心 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- 底部版权（原生写法，100%显示） -->
+  <div class="my-footer">
+    © 2026 Wang Haonan | wanghn.com | 
+    <a href="LICENSE">Source Code MIT</a> | 
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">Content CC BY-SA 4.0</a>
+  </div>
 
 </body>
 </html>
