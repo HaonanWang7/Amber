@@ -16,7 +16,6 @@
 
 
 
-## License
-
-- **Source Code & Theme**: Licensed under the [MIT License](LICENSE)
-- **Blog Posts & Content**: Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+# License
+- **源码（Source Code）**: Licensed under the [MIT License](LICENSE)
+- **文章与原创内容（Blog Posts & Content）**: Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
