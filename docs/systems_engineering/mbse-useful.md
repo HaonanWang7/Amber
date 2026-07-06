@@ -64,3 +64,6 @@
 ---
 
 *一个在汽车行业做过整车开发、在乙方做过管理、又在甲方又做了 MBSE 的工程师。七年，三个行业，一点体会。*
+
+
+> © 2026 Wang Haonan | wanghn.com | [MIT License](https://github.com/HaonanWang7/Amber/blob/doc/LICENSE) | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)

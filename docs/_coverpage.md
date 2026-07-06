@@ -8,4 +8,4 @@
 - 总结与沉淀
 
 [GitHub](https://github.com/HaonanWang7/Amber)
-[Get Started](#docsify)
+[Get Started](README)

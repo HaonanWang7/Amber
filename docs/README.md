@@ -7,8 +7,9 @@
 # 思珀
 
 - 杂谈
-  - 系统架构
-  - 基于模型的系统工程
+  - [系统工程](systems_engineering/README.md)
+    - [MBSE有用吗？系统工程有用吗？](systems_engineering/mbse-useful.md)
+  - [系统架构](system_architecture/README.md)
 - 指南
 - 好书推荐
 
@@ -19,3 +20,10 @@
 # License
 - **源码（Source Code）**: Licensed under the [MIT License](https://github.com/HaonanWang7/Amber/blob/doc/LICENSE)
 - **文章与原创内容（Blog Posts & Content）**: Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+
+
+
+
+> © 2026 Wang Haonan | wanghn.com | [MIT License](https://github.com/HaonanWang7/Amber/blob/doc/LICENSE) | [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
