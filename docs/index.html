@@ -29,18 +29,26 @@
     window.$docsify = {
       coverpage: true,
       name: '琥珀纪',
-      repo: 'HaonanWang7/Amber'
+      repo: 'HaonanWang7/Amber',
+      loadSidebar: true,
+      search: {
+        placeholder: '搜索',
+        noData: '没有找到结果',
+        depth: 3
+      }
     }
   </script>
 
   <!-- Docsify 核心 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- 搜索插件 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
 
   <!-- 底部版权（原生写法，100%显示） -->
   <div class="my-footer">
     © 2026 Wang Haonan | wanghn.com | 
-    <a href="LICENSE">Source Code MIT</a> | 
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Content CC BY-NC-ND 4.0</a> | 保留所有权利。未经许可，禁止以任何形式转载、复制或传播本站内容。
+    <a href="https://github.com/HaonanWang7/Amber/blob/doc/LICENSE">Source Code MIT</a> |
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Content CC BY-NC-ND 4.0</a>
   </div>
 
 </body>

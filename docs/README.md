@@ -17,5 +17,5 @@
 
 
 # License
-- **源码（Source Code）**: Licensed under the [MIT License](LICENSE)
+- **源码（Source Code）**: Licensed under the [MIT License](https://github.com/HaonanWang7/Amber/blob/doc/LICENSE)
 - **文章与原创内容（Blog Posts & Content）**: Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
